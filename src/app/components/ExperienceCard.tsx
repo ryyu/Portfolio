@@ -22,7 +22,7 @@ const ExperienceCard = ({
                 <h1 className='text-4xl'>{Title}</h1>
                 <hr className='border-slate-500'></hr>
                 <p>{subtitle}</p>
-                <embed src="/Ryan Yu Resume.pdf" width="550" height="700" type="application/pdf"></embed>
+                <embed src="https://ryyu.github.io/Portfolio/Ryan Yu Resume.pdf" width="550" height="700" type="application/pdf"></embed>
             </div>
         )
     }
