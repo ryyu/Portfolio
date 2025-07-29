@@ -1,8 +1,6 @@
 'use client'
 
-import Image from "next/image";
 import MaxWidthWrapper from "./components/MaxWidthWrapper";
-import NameCard from "./components/NameCard";
 import ExperienceCard from "./components/ExperienceCard";
 import { useState } from "react";
 
